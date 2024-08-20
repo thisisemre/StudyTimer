@@ -1,0 +1,21 @@
+/* Quotes.css */
+.quote-container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.quotes {
+  font-style: italic; 
+  font-family: 'Georgia', serif; 
+  margin: 20px 0; 
+  line-height: 1.5; 
+}
+
+.quote-author {
+  font-size: 1em;
+  text-align: right;
+  margin-top: 10px;
+}

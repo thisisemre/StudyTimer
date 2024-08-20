@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    color: #1e1d1d; 
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    transition: background-color 0.1s ease;
+  }
+
+  .App.break {
+    background-color: #229b5e; 
+  }
+  
+  .App.default {
+    background-color: rgb(186, 73, 73) 
+  }
