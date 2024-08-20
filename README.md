@@ -53,5 +53,4 @@ CSS for styling
    npm start
    ```
 
-   The application will be served at `http://localhost:3000`.
-```
+   The application will be served at `http://localhost:3000`
