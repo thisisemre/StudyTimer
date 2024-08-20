@@ -1,8 +1,8 @@
 # StudyTimer
 
+**StudyTimer** is a React application that implements a countdown timer using the Pomodoro technique. The application also integrates with the Quotable API to display random inspirational quotes.
 ## Technical Details
 
-**StudyTimer** is a React application that implements a countdown timer using the Pomodoro technique. The application also integrates with the Quotable API to display random inspirational quotes.
 
 ### Key Components
 
