@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StudyTimer/static/css/main.e2fed4b1.css",
+    "main.js": "/StudyTimer/static/js/main.b3c60fab.js",
+    "static/js/453.419a5d54.chunk.js": "/StudyTimer/static/js/453.419a5d54.chunk.js",
+    "index.html": "/StudyTimer/index.html",
+    "main.e2fed4b1.css.map": "/StudyTimer/static/css/main.e2fed4b1.css.map",
+    "main.b3c60fab.js.map": "/StudyTimer/static/js/main.b3c60fab.js.map",
+    "453.419a5d54.chunk.js.map": "/StudyTimer/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2fed4b1.css",
+    "static/js/main.b3c60fab.js"
+  ]
+}
